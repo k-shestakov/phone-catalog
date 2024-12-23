@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.03930b38.css",
+    "main.js": "./static/js/main.16ebf4f3.js",
+    "static/media/Mont-Regular.ttf": "./static/media/Mont-Regular.e797167c18f9897bb607.ttf",
+    "static/media/Mont-SemiBold.ttf": "./static/media/Mont-SemiBold.0b5e68ebb36ca4006e21.ttf",
+    "static/media/Mont-Bold.ttf": "./static/media/Mont-Bold.3675b597d3ffb2b75168.ttf",
+    "static/media/Mont-Regular.woff": "./static/media/Mont-Regular.5f2dd0890a78d28216de.woff",
+    "static/media/Mont-SemiBold.woff": "./static/media/Mont-SemiBold.5d4afcfe00f8d6a38e5f.woff",
+    "static/media/Mont-Bold.woff": "./static/media/Mont-Bold.bbedfa075d47682c0041.woff",
+    "static/media/Mont-SemiBold.woff2": "./static/media/Mont-SemiBold.95ab478c134f9e9da545.woff2",
+    "static/media/Mont-Regular.woff2": "./static/media/Mont-Regular.efd082cbd3e10b7e9c88.woff2",
+    "static/media/Mont-Bold.woff2": "./static/media/Mont-Bold.8b7a4e0626328dd44205.woff2",
+    "static/media/like-dis.svg": "./static/media/like-dis.2d43987945a6804957c6.svg",
+    "static/media/liked.svg": "./static/media/liked.6697999733d522bfaa04.svg",
+    "index.html": "./index.html",
+    "static/media/spliter.svg": "./static/media/spliter.92d7e1313c75d5d9ddcf.svg",
+    "static/media/arrow-top.svg": "./static/media/arrow-top.891b934a02bc10dca3a3.svg",
+    "main.03930b38.css.map": "./static/css/main.03930b38.css.map",
+    "main.16ebf4f3.js.map": "./static/js/main.16ebf4f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03930b38.css",
+    "static/js/main.16ebf4f3.js"
+  ]
+}
