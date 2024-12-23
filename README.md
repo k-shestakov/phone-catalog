@@ -16,7 +16,7 @@ Product Catalog is an online store platform where users can browse, filter, and 
 [DEMO LINK](https://k-shestakov.github.io/phone-catalog/)
   
 ### 🎨 Link to mockup
-[DEMO LINK](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
+[MOCKUP](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
 
 ## How to run the project locally
 1. **Get the initial code**
